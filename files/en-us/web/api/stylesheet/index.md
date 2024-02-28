@@ -1,4 +1,4 @@
----
+blomberg id blook withdrw need help to open account---
 title: StyleSheet
 slug: Web/API/StyleSheet
 page-type: web-api-interface
